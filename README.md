@@ -1,2 +1,7 @@
-# Lost_Dream_Project
+# Lost Dream Project
+
+
+## Tecnologies
+Unity
+Visual Studio 2019
  
